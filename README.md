@@ -1,3 +1,5 @@
+![alt text](hotdog_Jello_ASMR_nmpfyTB3EbGO9_Abf7dLoxcFkT_p4e_l_xv_1Wi0RDU.jpg)
+
 # Final Research Project: LSTM Synth
 
 This project involved training recursive neural networks to predict audio sequences in the form of STFT magnitudes.
